@@ -1,3 +1,5 @@
+![splash34](https://user-images.githubusercontent.com/97028115/166065489-45c5e3bf-1c96-448a-9e1f-f87577246b2e.png)
+
 # Videntium Web Browser
 A web browser for all your needs.
 
@@ -8,4 +10,3 @@ The browser is built under the Chromium Open Sourced Browser, but is mostly made
 # How to download
 
 To download, click on "Code" and click "Download as Zip". Then, extract the zip to wherever you want, and run the installer. The installer will not take long. Once you are done, you may need to restart, and then Videntium will be installed!
-
